@@ -1,0 +1,36 @@
+.button1 button
+{
+    color:teal;
+    background-color:white;
+    border: 1px solid teal;
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.button2 button
+{
+    color:white;
+    background-color:turquoise;
+    border: 1px solid turquoise;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    font-weight: bold;
+    font-size:large;
+    margin: 10px;
+}
+
+.button3 button
+{
+    color:white;
+    background-color:royalblue;
+    border: 2px solid black;
+    width: 125px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 3px 3px black;
+}
